@@ -1,0 +1,28 @@
+{
+  "food": [
+    {
+      "name": "Super Butter",
+      "type": "spread",
+      "status": 0.25
+    },
+    {
+      "name": "Asian Noodles",
+      "type": "leftovers ",
+      "status": 1
+    },
+    {
+      "name": "Chees slice Gauda",
+      "type": "topping",
+      "status": 0.25
+    },
+        {
+      "name": "Milk",
+      "type": "beverages",
+      "status": 0.65
+    }
+  ],
+  "stats": {
+    "itemamount": 4,
+    "refillneeded": true
+  }
+}
