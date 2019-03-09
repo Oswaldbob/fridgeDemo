@@ -1,6 +1,9 @@
 # fridgeDemo 
 Fake Online REST server for a fridge list (https://my-json-server.typicode.com/) 
 
+## Server URL
+* https://my-json-server.typicode.com/Oswaldbob/fridgeDemo
+
 ## Usage
 Used as a fake external service for a university project 
 
