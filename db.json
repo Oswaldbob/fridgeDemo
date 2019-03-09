@@ -23,6 +23,7 @@
   ],
   "stats": {
     "itemamount": 4,
-    "refillneeded": true
+    "refillneeded": true,
+    "bread": true
   }
 }
