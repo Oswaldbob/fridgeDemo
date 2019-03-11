@@ -11,6 +11,16 @@
       "status": 1
     },
     {
+      "name": "Döner",
+      "type": "leftovers",
+      "status": 0.1
+    },
+    {
+      "name": "Pommes",
+      "type": "leftovers",
+      "status": 0.16
+    },
+    {
       "name": "Chees slice Gauda",
       "type": "topping",
       "status": 0.25
