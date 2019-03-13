@@ -1,36 +1,46 @@
 {
   "food": [
-    {
-      "name": "Super Butter",
-      "type": "spread",
-      "status": 0.25
-    },
-    {
-      "name": "Asian Noodles",
-      "type": "leftovers",
-      "status": 1
-    },
-    {
-      "name": "Döner",
-      "type": "leftovers",
-      "status": 0.1
-    },
-    {
-      "name": "Pommes",
-      "type": "leftovers",
-      "status": 0.16
-    },
-    {
-      "name": "Chees slice Gauda",
-      "type": "topping",
-      "status": 0.25
-    },
-        {
-      "name": "Milk",
-      "type": "beverages",
-      "status": 0.65
-    }
-  ],
+  {
+    "name": "salt",
+    "type": "seasoning",
+    "status": 0.1
+  },
+  {
+    "name": "chicken stock",
+    "type": "seasoning",
+    "status": 0.5
+  },
+  {
+    "name": "vegan butter",
+    "type": "spread",
+    "status": 0.25
+  },
+  {
+    "name": "Asian Noodles",
+    "type": "leftovers",
+    "status": 1
+  },
+  {
+    "name": "Döner",
+    "type": "leftovers",
+    "status": 0.1
+  },
+  {
+    "name": "Pommes",
+    "type": "leftovers",
+    "status": 0.16
+  },
+  {
+    "name": "Chees slice Gauda",
+    "type": "topping",
+    "status": 0.25
+  },
+  {
+    "name": "Milk",
+    "type": "beverages",
+    "status": 0.65
+  }
+],
   "stats": {
     "itemamount": 4,
     "refillneeded": true,
